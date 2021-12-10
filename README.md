@@ -12,3 +12,7 @@ If you use cmd compilation just run you favourite java compiler on the java Main
 
 ### javac Main.java
 ### java Main / java Main.class
+
+I have also uplodded the classes already compiled in case you are in a hurry to play!! 
+
+Cheers !!!
